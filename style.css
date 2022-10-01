@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#main-warpper{
+    background-color: #edebf1;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.RegForm{
+    padding: 10px;
+    width: 80vw;
+    margin: auto;
+}
